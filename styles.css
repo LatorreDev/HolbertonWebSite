@@ -23,13 +23,12 @@ article{
     text-decoration: none;
 }
 
-img{
-    max-width: 50%;
-}
+
 
 aside{
     flex: 1;
     overflow-y: auto;
+    background: rgb(30, 30, 30);
 }
 
 header a{
