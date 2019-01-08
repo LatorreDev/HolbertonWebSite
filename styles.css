@@ -1,0 +1,42 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    background: rgb(30, 30, 30);
+    color: white;
+    text-decoration: none;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    background: rgb(30, 30, 30);
+    color: white;
+    text-decoration: none;
+}
+
+article{
+    flex: 2;
+    overflow-y: auto;
+    background: rgb(30, 30, 30);
+    color: white;
+    text-decoration: none;
+}
+
+img{
+    max-width: 50%;
+}
+
+aside{
+    flex: 1;
+    overflow-y: auto;
+}
+
+header a{
+    color: white;
+    font-weight: bold;
+}
+
+footer{
+text-decoration: none;
+}
