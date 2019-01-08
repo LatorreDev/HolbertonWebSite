@@ -39,3 +39,7 @@ header a{
 footer{
 text-decoration: none;
 }
+
+img{
+    max-width: 300px;;
+}
